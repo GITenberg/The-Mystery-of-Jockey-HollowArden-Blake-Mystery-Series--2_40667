@@ -1,0 +1,36 @@
+_repo: The-Mystery-of-Jockey-HollowArden-Blake-Mystery-Series--2_40667
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40667-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Cleo F.
+    alias: Garis, Cleo Fausta
+    birthdate: 1905
+    deathdate: 1998
+    gutenberg_agent_id: '40759'
+    url: http://www.gutenberg.org/2009/agents/40759
+description: ''
+gutenberg_issued: '2012-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Women college students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Holidays -- Juvenile fiction'
+- !lcsh 'Haunted houses -- Juvenile fiction'
+- !lcsh 'Ghosts -- Juvenile fiction'
+- !lcsh 'Buildings -- Repair and reconstruction -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+title: 'The Mystery of Jockey Hollow
+
+  Arden Blake Mystery Series #2'
+url: http://www.gutenberg.org/ebooks/40667
